@@ -4,7 +4,7 @@ Mike:
 * It could give you an error about credentials.  You'll need to create an access key for your user.  https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_CreateAccessKey
 
 ## Team:
-### Hilary Ligon, L, Peter Riley, Mike Labadie and Lou Luangxay
+### Hilary Ligon, Peter Riley, Mike Labadie and Lou Luangxay
 GDELT (Global Database of Events, Language, and Tone)
 Dataset Summary
 “In essence, within 15 minutes of GDELT monitoring a news report breaking anywhere the world, it has translated it, processed it to identify all events, counts, quotes, people, organizations, locations, themes, emotions, relevant imagery, video, and embedded social media posts, placed it into the global context, and made all of this available via a live open metadata firehose enabling open research on the planet itself.”
